@@ -1,0 +1,4 @@
+# uvicorn
+pip install uvicorn
+pip3 install nest_asyncio
+pip install fastapi
